@@ -23,7 +23,7 @@ const Player = () => {
       className="
         fixed 
         bottom-0 
-        bg-black 
+        bg-secondary 
         w-full 
         py-2 
         h-[80px] 
